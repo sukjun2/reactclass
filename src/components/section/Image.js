@@ -5,7 +5,7 @@ function Image(props) {
         <section id="imageType" className={`image__wrap ${props.attr[0]} ${props.attr[1]}`}>
             <h2>WEDDING HALL</h2>
             <p>예식장은 신랑, 신부의 약속을 맺는 아름다운 장소입니다.</p>
-            <div className={`image__inner ${props.attr[3]}`}>
+            <div className={`image__inner ${props.attr[2]}`}>
                 <article className="image img1">
                     <h3 className="image__tit">야외 예식장</h3>
                     <p className="image__desc">일반적으로 하는 실내 예식이 아닌, 야외 예식장도 주변 경관에 따라 더욱 아름답고 분위기 있는 선택이 될 수 있습니다.</p>
