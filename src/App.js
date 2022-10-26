@@ -17,7 +17,7 @@ function App() {
             {/* 한번에 여러개의 태그가 들어갈 수 없어서 하나의 박스(<>)로 묶어줌 */}
             <Header fonts="nexon" />
             <Main>
-                <Slider />
+                <Slider fonts="nexon" />
                 <Image attr={["section", "nexon", "container"]} />
                 <ImageText attr={["nexon", "section", "gray", "parallax", "container"]} />
                 <Card attr={["nexon", "section", "parallax", "container"]} />
