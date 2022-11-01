@@ -1,13 +1,16 @@
 /* swiper */
 .swiper-slide.img1 {
+    margin-top: 50px;
     background: url(../img/w_slider_bg01.jpg) no-repeat center / cover;
 }
 
 .swiper-slide.img2 {
+    margin-top: 50px;
     background: url(../img/w_slider_bg02.jpg) no-repeat center / cover;
 }
 
 .swiper-slide.img3 {
+    margin-top: 50px;
     background: url(../img/w_slider_bg03.jpg) no-repeat center / cover;
 }
 
@@ -20,7 +23,7 @@
 
 .swiper-slide .desc span {
     font-size: 16px;
-    background-color: #FAC4F8;
+    background-color: #fac4f8;
     padding: 1px 14px 0 14px;
     border-radius: 30px;
     text-transform: uppercase;
